@@ -69,12 +69,12 @@ As a PenTester, I'm like a knight in shining armor, defending against malicious 
 
 # GitHub Statistics
 <div align="center"> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KirtiRamchandani&theme=vue-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="My github stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KirtiRamchandani&theme=vue-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="180em" alt="My github stats" />
 </div>
 <br />
 <div align="center">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KirtiRamchandani&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=false" height="200" alt="My github stats" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiRamchandani&layout=compact&theme=cobalt&hide_border=false" height="200" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KirtiRamchandani&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=false" height="180em" alt="My github stats" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiRamchandani&layout=compact&theme=cobalt&hide_border=false" height="180em" />
 </div>
 
 <br />
