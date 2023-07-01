@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./assets/header.png)
 
 As a PenTester, I'm like a knight in shining armor, defending against malicious attacks. My skills as a professional eSports player are like a secret weapon, helping me outmaneuver and defeat my opponents. Just like a gardener tends to a garden, I enjoy contributing to the security of open-source projects. In 2019, I played the regional qualifiers of the World Cyber Games and soared to a 7th place finish in it, solidifying my spot among the top 32 players in the world. You can call me FaLcOn, just like how a falcon is known for its precision and agility. I'm also a practitioner of VA/PT, Competitive Programming and MUNning, like a multi-talented artist with many brushes in my toolbox. Currently, I'm focusing on fortifying the defenses of browsers and android devices.
 
@@ -48,7 +48,7 @@ As a PenTester, I'm like a knight in shining armor, defending against malicious 
 
 # Awards & Recognitions
 
-<img align="right" height="200" src="./awards.gif" autoplay />
+<img align="right" height="200" src="./assets/awards.gif" autoplay />
 
 * World Cyber Games 2019 India’s representative
 * National ClashRoyale Champion in PFG tournament
