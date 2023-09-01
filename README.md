@@ -1,6 +1,6 @@
 ![Header](./assets/header.png)
 
-As a PenTester, I'm like a knight in shining armor, defending against malicious attacks. My skills as a professional eSports player are like a secret weapon, helping me outmaneuver and defeat my opponents. Just like a gardener tends to a garden, I enjoy contributing to the security of open-source projects. In 2019, I played the regional qualifiers of the World Cyber Games and soared to a 7th place finish in it, solidifying my spot among the top 32 players in the world. You can call me FaLcOn, just like how a falcon is known for its precision and agility. I'm also a practitioner of VA/PT, Competitive Programming and MUNning, like a multi-talented artist with many brushes in my toolbox. Currently, I'm focusing on fortifying the defenses of browsers and android devices.
+As a PenTester, I'm like a knight in shining armor, defending against malicious attacks. My skills as a professional eSports player are like a secret weapon, helping me outmaneuver and defeat my opponents. Just like a gardener tends to a garden, I enjoy contributing to the security of open-source projects. In 2019, I played in the regional qualifiers of the World Cyber Games and soared to a 7th-place finish, solidifying my spot among the top 32 players in the world. You can call me FaLcOn, just like how a falcon is known for its precision and agility. I'm also a practitioner of VA/PT, Competitive Programming, and MUNning, like a multi-talented artist with many brushes in my toolbox. Currently, I'm focusing on fortifying the defenses of browsers and Android devices.
 
 <br />
 <br />
@@ -60,25 +60,30 @@ As a PenTester, I'm like a knight in shining armor, defending against malicious 
 <br />
 <br />
 
-# Spoke at
+# Presented at
 * IEEE Nirma University
 * IEEE GCET
 
 <br />
 <br />
 
-# GitHub Statistics
-<div align="center"> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KirtiRamchandani&theme=vue-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="180em" alt="My github stats" />
-</div>
+# GitHub Statistics 📊
+
+<p align="center"> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KirtiRamchandani&theme=vue-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="180em" alt="My GitHub commit streak" />
+</p>
+
 <br />
-<div align="center">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KirtiRamchandani&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=false" height="180em" alt="My github stats" /> 
+
+<p align="center">  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KirtiRamchandani&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=false" height="180em" alt="My GitHub stats" /> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiRamchandani&layout=compact&theme=cobalt&hide_border=false" height="180em" />
-</div>
+</p>
 
 <br />
 <br />
+
+Keep track of my GitHub journey and see my coding interests and contributions! 💼
 
 # Find me here
 <!--[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]() -->
