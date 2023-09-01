@@ -1,64 +1,84 @@
-![Header](./assets/header.png)
+🛡️ **Cybersecurity Knight** 🛡️
 
-As a PenTester, I'm like a knight in shining armor, defending against malicious attacks. My skills as a professional eSports player are like a secret weapon, helping me outmaneuver and defeat my opponents. Just like a gardener tends to a garden, I enjoy contributing to the security of open-source projects. In 2019, I played in the regional qualifiers of the World Cyber Games and soared to a 7th-place finish, solidifying my spot among the top 32 players in the world. You can call me FaLcOn, just like how a falcon is known for its precision and agility. I'm also a practitioner of VA/PT, Competitive Programming, and MUNning, like a multi-talented artist with many brushes in my toolbox. Currently, I'm focusing on fortifying the defenses of browsers and Android devices.
+Hey there, I'm FaLcOn – your friendly neighborhood Cybersecurity Knight, donned in shining digital armor 🦸‍♂️. I'm the guardian of the online realm, defending it against malicious attacks like a true modern-day hero.
 
+🎮 When I'm not donning my armor, I unleash my secret weapon: my professional eSports prowess! 🎮 With lightning-fast reflexes and strategic finesse, I outmaneuver and conquer my virtual adversaries with ease.
+🌱 Just like a green-thumbed gardener tends to their garden, I nurture the security of open-source projects 🌱. I'm all about cultivating a safer digital world for everyone.
+🌍 In 2019, I took the stage at the World Cyber Games' regional qualifiers, and boy, did I soar! 🚀 Securing a 7th-place finish, I cemented my spot among the top 32 players worldwide 🏆.
+🦅 You can call me FaLcOn, just like our feathered friends known for precision and agility. I bring those same qualities to every challenge I tackle.
+🎨 But my talents don't stop there! I'm a versatile artist with a diverse toolbox. Whether it's VA/PT, Competitive Programming, or MUNning, I've got many brushes to paint my canvas 🖌️.
+🔒 Currently, I'm on a mission to fortify the defenses of browsers and Android devices 🔒. Because in this digital age, we all deserve a safer and smoother online experience.
+
+Join me on this electrifying journey through the digital realm! ⚡🚀
 <br />
 <br />
 
-# Skills
+# Skills 🚀
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" title="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="c++ logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" title="C++" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="60" alt="objective c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="60" alt="Objective-C" title="Objective-C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="Kotlin" title="Kotlin" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="60" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="60" alt="Ruby" title="Ruby" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="PHP" title="PHP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="sql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="Swift" title="Swift" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="60" alt="rust logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="60" alt="Rust" title="Rust" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="Matlab" title="Matlab" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="Bash" title="Bash" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="C#" title="C#" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="C" title="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="60" alt="perl logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="60" alt="Perl" title="Perl" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" title="TypeScript" />
   <img width="12" />
 </div>
 
 <br />
 <br />
 
-# Awards & Recognitions
+Mastering a colorful array of skills just like a cartoon character! 🎨🚀
 
-<img align="right" height="200" src="./assets/awards.gif" autoplay />
 
-* World Cyber Games 2019 India’s representative
-* National ClashRoyale Champion in PFG tournament
-* CRL 2019 Qualifier
-* Penetration Tester of the Year- Cyber Security Awards 2018
-* World Record for Youngest Cyber Security Researcher
-* Book Of Achievers
+# Achievements Unlocked! 🏆
 
-<br />
-<br />
+🌟 **World Cyber Games 2019 India's Representative**
+   *Embarked on a digital quest as the chosen one, representing my nation.*
+
+🏆 **National ClashRoyale Champion in PFG Tournament**
+   *Commanded my virtual kingdom, vanquishing all challengers to claim the throne.*
+
+🎮 **CRL 2019 Qualifier**
+   *Battled through the competitive arena, earning my place among the best.*
+
+🕵️ **Penetration Tester of the Year - Cyber Security Awards 2018**
+   *Stealthily navigating the world of cyber threats, I was honored as the year's top cyber defender.*
+
+🌐 **World Record Holder for Youngest Cyber Security Researcher**
+   *Rewriting the records of innovation, I blazed a trail as the youngest ever in the realm of cyber research.*
+
+📚 **Book Of Achievers**
+   *Penned my legacy into the Book of Achievers, leaving an indelible mark on the pages of history.*
+
+Each achievement, a chapter in my digital saga! 📖🚀
 
 # Presented at
 * IEEE Nirma University
