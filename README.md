@@ -87,24 +87,6 @@ Each achievement, a chapter in my digital saga! 📖🚀
 <br />
 <br />
 
-# GitHub Statistics 📊
-
-<p align="center"> 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=KirtiRamchandani&theme=vue-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="180em" alt="My GitHub commit streak" />
-</p>
-
-<br />
-
-<p align="center">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KirtiRamchandani&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=false" height="180em" alt="My GitHub stats" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiRamchandani&layout=compact&theme=cobalt&hide_border=false" height="180em" />
-</p>
-
-<br />
-<br />
-
-Keep track of my GitHub journey and see my coding interests and contributions! 💼
-
 # Find me here
 <!--[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]() -->
 [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/kirtikumar_a_r)
