@@ -13,7 +13,7 @@ Join me on this electrifying journey through the digital realm! ⚡🚀
 <br />
 <br />
 
-# Skills 🚀
+# Coding Palette 🎨
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" title="HTML5" />
