@@ -1,6 +1,6 @@
 🛡️ **Cybersecurity Knight** 🛡️
 
-Hey there, I'm FaLcOn – your friendly neighborhood Cybersecurity Knight, donned in shining digital armor 🦸‍♂️. I'm the guardian of the online realm, defending it against malicious attacks like a true modern-day hero.
+Hey there, I'm FaLcOn – your friendly neighborhood Cybersecurity Knight donned in shining digital armor 🦸‍♂️. I'm the guardian of the online realm, defending it against malicious attacks like a true modern-day hero.
 
 🎮 When I'm not donning my armor, I unleash my secret weapon: my professional eSports prowess! 🎮 With lightning-fast reflexes and strategic finesse, I outmaneuver and conquer my virtual adversaries with ease.
 🌱 Just like a green-thumbed gardener tends to their garden, I nurture the security of open-source projects 🌱. I'm all about cultivating a safer digital world for everyone.
@@ -10,8 +10,8 @@ Hey there, I'm FaLcOn – your friendly neighborhood Cybersecurity Knight, donne
 🔒 Currently, I'm on a mission to fortify the defenses of browsers and Android devices 🔒. Because in this digital age, we all deserve a safer and smoother online experience.
 
 Join me on this electrifying journey through the digital realm! ⚡🚀
-<br />
-<br />
+<br/>
+<br/>
 
 # Coding Palette 🎨
 
@@ -52,51 +52,58 @@ Join me on this electrifying journey through the digital realm! ⚡🚀
   <img width="12" />
 </div>
 
-<br />
-<br />
+<br/>
+<br/>
 
 Mastering a colorful array of skills just like a cartoon character! 🎨🚀
 
 
 # Achievements Unlocked! 🏆
 
-🌟 **World Cyber Games 2019 India's Representative**
-   *Embarked on a digital quest as the chosen one, representing my nation.*
+🏆 **World Cyber Games 2019 India's Representative**
+   *Venture into a digital odyssey where I, as the chosen one, embarked on a quest to represent my nation. Witness the electrifying journey of an eSports hero!* [Experience the Quest](https://www.linkedin.com/posts/kirtikumar-anandrao-ramchandani-ba949b153_esports-gaming-activity-6637058961025654784-vB0C)
 
-🏆 **National ClashRoyale Champion in PFG Tournament**
-   *Commanded my virtual kingdom, vanquishing all challengers to claim the throne.*
+🏅 **Silver Medal in "Neural Networks and Big Data" Grand Finals**
+   *Glance upon the shimmering silver that crowns my journey through the grand arena of "Neural Networks and Big Data." With the tricolor banner in hand, I conquered the world stage at the International High Technologies Championship. Prepare to be awed by my expertise in deep learning and data analysis!* [Witness the Triumph](https://www.linkedin.com/posts/kirtikumar-anandrao-ramchandani-ba949b153_neuralnetworks-bigdata-deeplearning-activity-7114992356403142658-9C4Z)
 
-🎮 **CRL 2019 Qualifier**
-   *Battled through the competitive arena, earning my place among the best.*
+🏆 **Youngest Savvy Award Winner!**
+    *Join me on an illustrious odyssey through the digital realm as I clinch yet another accolade. I've attained the title of the youngest recipient of the prestigious Savvy Award. This recognition applauds my extraordinary contributions and groundbreaking innovations, marking a pivotal milestone in my evolving career.* [Celebrate the Achievement](https://www.linkedin.com/posts/kirtikumar-anandrao-ramchandani-ba949b153_infosec-cybersecurity-security-activity-6630414808833454080-DO8J)
+
+👑 **National Clash Royale Champion in PFG Tournament**
+   *Ruling my virtual kingdom, I vanquished all challengers to claim the throne. Witness the coronation of a true eSports monarch!* [Bow to the Champion](https://www.linkedin.com/posts/kirtikumar-anandrao-ramchandani-ba949b153_esports-gaming-games-activity-6656514301882400769-SvON)
 
 🕵️ **Penetration Tester of the Year - Cyber Security Awards 2018**
-   *Stealthily navigating the world of cyber threats, I was honored as the year's top cyber defender.*
+   *Step into the shadows as I stealthily navigate the treacherous world of cyber threats. I ascended to the pinnacle as the year's foremost cyber defender.* [Explore the Shadows](https://cybersecurityawards.com/2018-winners)
 
 🌐 **World Record Holder for Youngest Cyber Security Researcher**
-   *Rewriting the records of innovation, I blazed a trail as the youngest ever in the realm of cyber research.*
+   *I etched my name into the annals of innovation, rewriting records as the youngest trailblazer in the realm of cyber research.* [Discover the Trail](https://www.linkedin.com/posts/kirtikumar-anandrao-ramchandani-ba949b153_yippee-this-time-record-book-youngest-cybersecurity-activity-6422734726573973504-49vG)
+
+🌐 **Online World Record for Youngest Cyber Security Researcher and Ethical Hacker**
+   *Breaking boundaries and creating milestones, I've set an online world record as the youngest cyber security researcher and ethical hacker.* [Set the Record](https://www.linkedin.com/posts/kirtikumar-anandrao-ramchandani-ba949b153_cybersecurity-informationtechnology-activity-6435855907212627969-7hGR)
+
+🎮 **CRL 2019 Qualifier**
+   *Engage in the fierce battlegrounds of the CRL 2019 Qualifier, where I battled my way to claim a spot among the elite.* 
 
 📚 **Book Of Achievers**
-   *Penned my legacy into the Book of Achievers, leaving an indelible mark on the pages of history.*
+   *Inscribe my legacy into the Book Of Achievers, where I leave an indelible mark on the pages of history.* 
 
-Each achievement, a chapter in my digital saga! 📖🚀
+
+Each achievement is a chapter in my digital saga! 📖🚀
 
 # Presented at
 * IEEE Nirma University
 * IEEE GCET
+* And more to come...
 
-<br />
-<br />
+<br/>
+<br/>
 
 # Find me here
-<!--[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]() -->
-[<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/kirtikumar_a_r)
+<!--[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>]() -->
+
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kirtikumar-anandrao-ramchandani-ba949b153/)
 [<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/397017832648605697)
 
-<br />
-<br />
+<br/>
+<br/>
 
-## Visitor's count :eyes:
-<img src="https://profile-counter.glitch.me/{KirtiRamchandani}/count.svg" alt="KirtiRamchandani :: Visitor's Count" />
-<br />
-<br />
