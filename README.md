@@ -90,6 +90,96 @@ Mastering a colorful array of skills just like a cartoon character! 🎨🚀
 
 Each achievement is a chapter in my digital saga! 📖🚀
 
+# Security Contributions and CVEs Addressed 🛡️
+
+<details>
+  <summary>Google Chrome VRP </summary>
+
+- CVE-2021-21187
+- CVE-2022-22758
+- CVE-2023-1231
+- CVE-2023-1818
+
+</details>
+
+<details>
+  <summary>Linux Kernel </summary>
+
+- CVE-2021-32078
+
+</details>
+
+<details>
+  <summary>Brave </summary>
+
+- CVE-2022-30334
+
+</details>
+
+<details>
+  <summary>Apple </summary>
+
+- CVE-2022-46692
+- CVE-2022-46695
+
+</details>
+
+<details>
+  <summary>Microsoft Edge </summary>
+
+- CVE-2021-24100
+- CVE-2020-17153
+
+</details>
+
+<details>
+  <summary>Firefox </summary>
+
+- CVE-2022-22758
+
+</details>
+
+<details>
+  <summary>Opera </summary>
+
+- CVE-2020-6158
+
+</details>
+
+<details>
+  <summary>Oracle </summary>
+
+- CVE-2020-2545
+
+</details>
+
+<details>
+  <summary>F-Secure 🛡</summary>
+
+- CVE-2022-38163
+- CVE-2022-28873
+- CVE-2022-28872
+- CVE-2022-28870
+- CVE-2022-28869
+- CVE-2022-28868
+- CVE-2021-44751
+- CVE-2021-44749
+- CVE-2021-44748
+
+</details>
+
+<details>
+  <summary>Yandex </summary>
+
+- CVE-2020-27969
+- CVE-2020-27970
+- CVE-2021-25254
+- CVE-2021-25255
+- CVE-2021-25262
+
+</details>
+
+
 # Presented at
 * IEEE Nirma University
 * IEEE GCET
