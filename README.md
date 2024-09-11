@@ -1,10 +1,10 @@
 🛡️ **Cybersecurity Knight** 🛡️
 
-Hey there, I'm FaLcOn – your friendly neighborhood Cybersecurity Knight donned in shining digital armor 🦸‍♂️. I'm the guardian of the online realm, defending it against malicious attacks like a true modern-day hero.
+Hey there, I'm FaLcOn – your friendly neighbourhood Cybersecurity Knight donned in shining digital armor 🦸‍♂️. I'm the guardian of the online realm, defending it against malicious attacks like a true modern-day hero.
 
-🎮 When I'm not donning my armor, I unleash my secret weapon: my professional eSports prowess! 🎮 With lightning-fast reflexes and strategic finesse, I outmaneuver and conquer my virtual adversaries with ease.
+🎮 When not donning my armor, I unleash my secret weapon: my professional eSports prowess! 🎮 With lightning-fast reflexes and strategic finesse, I outmaneuver and easily conquer my virtual adversaries.
 🌱 Just like a green-thumbed gardener tends to their garden, I nurture the security of open-source projects 🌱. I'm all about cultivating a safer digital world for everyone.
-🌍 In 2019, I took the stage at the World Cyber Games' regional qualifiers, and boy, did I soar! 🚀 Securing a 7th-place finish, I cemented my spot among the top 32 players worldwide 🏆.
+🌍 In 2019, I took the stage at the World Cyber Games' regional qualifiers, and boy, I soared! 🚀 Securing a 7th-place finish, I cemented my spot among the top 32 players worldwide 🏆.
 🦅 You can call me FaLcOn, just like our feathered friends known for precision and agility. I bring those same qualities to every challenge I tackle.
 🎨 But my talents don't stop there! I'm a versatile artist with a diverse toolbox. Whether it's VA/PT, Competitive Programming, or MUNning, I've got many brushes to paint my canvas 🖌️.
 🔒 Currently, I'm on a mission to fortify the defenses of browsers and Android devices 🔒. Because in this digital age, we all deserve a safer and smoother online experience.
@@ -183,6 +183,8 @@ Each achievement is a chapter in my digital saga! 📖🚀
 # Presented at
 * IEEE Nirma University
 * IEEE GCET
+* [CheckMates 2024](https://www.linkedin.com/feed/update/urn:li:activity:7173971503451922432/)
+* [Microsoft's Bluehat 2024](https://x.com/MSFTBlueHat/status/1790997142615548397)
 * And more to come...
 
 <br/>
