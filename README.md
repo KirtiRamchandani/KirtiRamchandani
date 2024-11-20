@@ -191,11 +191,14 @@ Each achievement is a chapter in my digital saga! 📖🚀
 <br/>
 <br/>
 
-# Find me here
-<!--[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>]() -->
+# Welcome to My GitHub Profile!
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kirtikumar-anandrao-ramchandani-ba949b153/)
-[<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/397017832648605697)
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirtikumar-anandrao-ramchandani-ba949b153/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/397017832648605697)
+
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KirtiRamchandani&theme=radical" alt="GitHub Stats" />
@@ -210,6 +213,17 @@ Each achievement is a chapter in my digital saga! 📖🚀
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=KirtiRamchandani&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+## Codeforces Statistics
+
+<div align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=secresearch1979" alt="Codeforces Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=secresearch1979" alt="Codeforces Rating" />
+</div>
+
+
+
+
 
 <br/>
 <br/>
