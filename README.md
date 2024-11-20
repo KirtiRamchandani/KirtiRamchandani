@@ -2,6 +2,7 @@
 
 Hey there, I'm FaLcOn – your friendly neighbourhood Cybersecurity Knight donned in shining digital armor 🦸‍♂️. I'm the guardian of the online realm, defending it against malicious attacks like a true modern-day hero.
 
+
 🎮 When not donning my armor, I unleash my secret weapon: my professional eSports prowess! 🎮 With lightning-fast reflexes and strategic finesse, I outmaneuver and easily conquer my virtual adversaries.
 🌱 Just like a green-thumbed gardener tends to their garden, I nurture the security of open-source projects 🌱. I'm all about cultivating a safer digital world for everyone.
 🌍 In 2019, I took the stage at the World Cyber Games' regional qualifiers, and boy, I soared! 🚀 Securing a 7th-place finish, I cemented my spot among the top 32 players worldwide 🏆.
@@ -195,6 +196,20 @@ Each achievement is a chapter in my digital saga! 📖🚀
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kirtikumar-anandrao-ramchandani-ba949b153/)
 [<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/397017832648605697)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KirtiRamchandani&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KirtiRamchandani&theme=radical&utcOffset=5.5" alt="Most Active Coding Hours" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KirtiRamchandani&theme=radical" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KirtiRamchandani&theme=radical" alt="Top Languages by Commit" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KirtiRamchandani&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <br/>
 <br/>
