@@ -1,62 +1,10 @@
-🛡️ **Cybersecurity Knight** 🛡️
 
-Hey there, I'm FaLcOn – your friendly neighbourhood Cybersecurity Knight donned in shining digital armor 🦸‍♂️. I'm the guardian of the online realm, defending it against malicious attacks like a true modern-day hero.
-
-
-🎮 When not donning my armor, I unleash my secret weapon: my professional eSports prowess! 🎮 With lightning-fast reflexes and strategic finesse, I outmaneuver and easily conquer my virtual adversaries.
-🌱 Just like a green-thumbed gardener tends to their garden, I nurture the security of open-source projects 🌱. I'm all about cultivating a safer digital world for everyone.
-🌍 In 2019, I took the stage at the World Cyber Games' regional qualifiers, and boy, I soared! 🚀 Securing a 7th-place finish, I cemented my spot among the top 32 players worldwide 🏆.
-🦅 You can call me FaLcOn, just like our feathered friends known for precision and agility. I bring those same qualities to every challenge I tackle.
-🎨 But my talents don't stop there! I'm a versatile artist with a diverse toolbox. Whether it's VA/PT, Competitive Programming, or MUNning, I've got many brushes to paint my canvas 🖌️.
-🔒 Currently, I'm on a mission to fortify the defenses of browsers and Android devices 🔒. Because in this digital age, we all deserve a safer and smoother online experience.
-
-Join me on this electrifying journey through the digital realm! ⚡🚀
-<br/>
-<br/>
 
 # Coding Palette 🎨
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" title="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" title="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" title="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="C++" title="C++" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="60" alt="Objective-C" title="Objective-C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="Kotlin" title="Kotlin" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="60" alt="Ruby" title="Ruby" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="PHP" title="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" title="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="60" alt="Swift" title="Swift" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="60" alt="Rust" title="Rust" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="Matlab" title="Matlab" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="Bash" title="Bash" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="C#" title="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="C" title="C" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="60" alt="Perl" title="Perl" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript" title="TypeScript" />
-  <img width="12" />
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,js,java,cpp,arduino,kotlin,ruby,php,mysql,swift,rust,matlab,bash,c,perl,typescript,bootstrap,cs,cmake,django,git,nodejs,powershell)](https://skillicons.dev)
 
-<br/>
-<br/>
 
-Mastering a colorful array of skills just like a cartoon character! 🎨🚀
 
 
 # Achievements Unlocked! 🏆
@@ -88,8 +36,6 @@ Mastering a colorful array of skills just like a cartoon character! 🎨🚀
 📚 **Book Of Achievers**
    *Inscribe my legacy into the Book Of Achievers, where I leave an indelible mark on the pages of history.* 
 
-
-Each achievement is a chapter in my digital saga! 📖🚀
 
 # Security Contributions and CVEs Addressed 🛡️
 
@@ -155,7 +101,7 @@ Each achievement is a chapter in my digital saga! 📖🚀
 </details>
 
 <details>
-  <summary>F-Secure 🛡</summary>
+  <summary>F-Secure </summary>
 
 - CVE-2022-38163
 - CVE-2022-28873
@@ -188,10 +134,6 @@ Each achievement is a chapter in my digital saga! 📖🚀
 * [Microsoft's Bluehat 2024](https://x.com/MSFTBlueHat/status/1790997142615548397)
 * And more to come...
 
-<br/>
-<br/>
-
-# Welcome to My GitHub Profile!
 
 ## Connect with Me
 
@@ -218,13 +160,8 @@ Each achievement is a chapter in my digital saga! 📖🚀
 
 <div align="center">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=secresearch1979" alt="Codeforces Stats" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=secresearch1979" alt="Codeforces Rating" />
+  <!-- <img src="https://codeforces-readme-stats.vercel.app/api/badge?username=secresearch1979" alt="Codeforces Rating" /> -->
 </div>
 
 
-
-
-
-<br/>
-<br/>
 
